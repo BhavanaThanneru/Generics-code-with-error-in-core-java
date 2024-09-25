@@ -1,0 +1,13 @@
+import java.util.ArrayList;
+public class ArrayListDemo5{
+    public Static void main(String[] args){
+        ArrayList<Integer> mylist=new ArrayList<Integer>{
+            mylist.add(100);
+            mylist.add(600);
+            //mylist.add(45.5);
+            mylist.add(100);
+            System.out.println(mylist);
+
+        }
+    }
+}
